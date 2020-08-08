@@ -36,15 +36,8 @@ The following image demonstrates the application functionality:
 
 ![password generator demo](./Assets/03-javascript-homework-demo.png)
 
-Link to live site:[Password Generator](https://portercol.github.io/Password-Generator/)
 
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+Link to live site: [Password Generator](https://portercol.github.io/Password-Generator/)
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
