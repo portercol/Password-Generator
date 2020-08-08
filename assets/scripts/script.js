@@ -15,8 +15,6 @@ generateBtn.addEventListener("click", writePassword)
 
 function generatePassword() {
 
-
-
   // Prompt user to enter password length
   // prompt ("Password length needs to be between 8-128 characters")
 
@@ -44,7 +42,6 @@ function generatePassword() {
     specialSym = confirm("Do you want special characters for your password?")
 
   }
-
   // Create variable for character sets
   var char = "";
 
