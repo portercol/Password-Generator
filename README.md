@@ -36,6 +36,8 @@ The following image demonstrates the application functionality:
 
 ![password generator demo](./Assets/03-javascript-homework-demo.png)
 
+Link to live site: (https://portercol.github.io/Password-Generator/)
+
 ## Review
 
 You are required to submit the following for review:
