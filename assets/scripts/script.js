@@ -11,10 +11,10 @@ function writePassword() {
 }
 
 // Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);
+generateBtn.addEventListener("click", writePassword)
 
 function generatePassword() {
-
+  
 }
 
 // Prompt user to enter password length
@@ -69,7 +69,17 @@ if (passwordNum) {
 }
 
 if (specialSym) {
-  var specialChar = "!#$%&()*+,-./\\:<=>?@[]\'^_`{|}~";
+  var specialChar = " !#$%&'()*+,-./:;<=>?@[\]^_`{|}~";
   char += specialChar
 }
-console.log (char.length)
+// console.log (char.length)
+
+// var chars = "";
+//   allowedCharCount = char.length;
+//   if(allowedCharCount == 0);
+
+
+//   for (var i = 0; i < char.length; i++)
+//   {
+//     chars += char[Math.floor(Math.random() * Math.floor(allowedCharCount))];
+//   }
