@@ -31,7 +31,6 @@ while (isNaN(parseInt(passwordLength)) || parseInt(passwordLength) < 8 || parseI
 }
 
 // Write a confirm for each set of characters
-// We want the users answers stored to the variable
 var lowercaseLet = confirm("Do you want lowercase letters for your password?")
 var uppercaseLet = confirm("Do you want uppercase letters for your password?")
 var passwordNum = confirm("Do you want numbers for your password?")
@@ -54,8 +53,7 @@ var upperChar = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var numChar = "0123456789";
 var specialChar = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~";
 
-//If true use data to add these characters to character sets
-
+//If true use data to add these characters to "char" sets
 if (lowercaseLet) {
   char += lowerChar
 }
@@ -80,16 +78,3 @@ for (var i = 0; i < passwordLength; i++) {
 } return(randomPass)
 
 }
-// *** Tried but didn't work ***
-
-// function randomNumber() {
-//   return String.fromCharCode(Math.floor(Math.random() * 10 + 48));
-// }
-
-// var result = "";
-
-// for (i = 0; i < numChar.length; i++) {
-//   result = result + randomNumber();
-//   console.log(randomNumber)
-// }
-
