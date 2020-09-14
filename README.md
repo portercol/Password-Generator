@@ -8,7 +8,10 @@ This application allows the user to select different options from a few differen
 4. User selects if they want numbers
 5. User selects if they want special characters
 
+# How It Works
 ![Password Generator](images/passwordGen1.png)
+![Password Generator](images/passwordGen2.png)
+
 
 Link to live site: [Password Generator](https://portercol.github.io/Password-Generator/)
 
