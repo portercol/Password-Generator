@@ -1,4 +1,9 @@
 # Password Generator
+
+Link to live site: [Password Generator](https://portercol.github.io/Password-Generator/)
+
+## Description
+
 This application allows the user to select different options from a few different criteria that will then generate a random password for them.
 
 ## Criteria
@@ -11,9 +16,6 @@ This application allows the user to select different options from a few differen
 ## How It Works
 ![Password Generator](images/passwordGen1.png)
 ![Password Generator](images/passwordGen2.png)
-
-
-Link to live site: [Password Generator](https://portercol.github.io/Password-Generator/)
 
 ## Credits/Technologies Used
 1. TAs/Tutors
