@@ -17,7 +17,7 @@ This application allows the user to select different options from a few differen
 ![Password Generator](images/passwordGen1.png)
 ![Password Generator](images/passwordGen2.png)
 
-## Credits/Technologies Used
+## Credits
 1. TAs/Tutors
 2. Peer Groups
 3. GOOGLE
